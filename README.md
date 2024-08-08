@@ -13,9 +13,8 @@ Update: Modify existing records in the database.
 Delete: Remove records from the database.
 Session Management: Proper management of Hibernate sessions and transactions.
 Error Handling: Basic error handling for database operations.
+
 Project Structure
-plaintext
-Copy code
 src/
 ├── main/
 │   ├── java/
@@ -31,6 +30,9 @@ src/
 │   ├── resources/
 │   │   └── hibernate.cfg.xml
 └── pom.xml
+
+
+
 Prerequisites
 Java Development Kit (JDK)
 Maven (for dependency management)
